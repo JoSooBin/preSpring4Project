@@ -9,6 +9,7 @@
 
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/css/semiproject.css">
     <title>세미프로젝트 v1</title>
     <style>
         .fatdiv {padding: 15px; }

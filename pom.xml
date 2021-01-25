@@ -62,7 +62,6 @@
       <scope>provided</scope>
     </dependency>
 
-    <!--tag library-->
     <dependency>
       <groupId>javax.servlet.jsp.jstl</groupId>
       <artifactId>javax.servlet.jsp.jstl-api</artifactId>
